@@ -26,7 +26,7 @@ Open Oracle Management Cloud and on the menu on the left hand side of your scree
 
 Once here, click the hamburger menu on the top right hand side of the screen and click the download agent button.
 
- ![](./images/1.png =300x)
+ ![](./images/1.png =30x)
 
 ### Step 2: Download the agent
 For agent type, select "Cloud Agent" and for your operating system choose "Linux (64 Bit)"
